@@ -1,2 +1,2 @@
 # Hello_world
-jey here, i'm learning coding
+jey here, I'm learning coding
